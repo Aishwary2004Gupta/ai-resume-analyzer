@@ -62,7 +62,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 - **[Zustand](https://github.com/pmndrs/zustand)** is a minimal, hook-based state management library for React. It lets you manage global state with zero boilerplate, no context providers, and excellent performance through selective state subscriptions.
 
-## <a name="features">🔋 Features</a>
+## <a name="features">🔋 Features</a> 
 
 👉 **Easy & convenient auth**: Handle authentication entirely in the browser using Puter.js—no backend or setup required.
 
